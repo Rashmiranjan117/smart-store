@@ -19,7 +19,7 @@ Technologies used in the project:
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&amp;logo=chakra-ui&amp;logoColor=white)
 
 
-
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## 💻 Screenshots
